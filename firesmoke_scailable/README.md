@@ -9,3 +9,7 @@
   0: 0.7942758798599243
   (6, 1), (636, 640)
   ```  
+
+
+https://github.com/PrinceP/scaling-succotash/assets/10251537/e58df32a-cbae-4553-885e-9d50ae829caa
+
