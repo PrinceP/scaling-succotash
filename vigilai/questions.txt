@@ -1,0 +1,8 @@
+How many cameras are present?
+
+Is there anything happening in the camera?
+
+Give me a list of objects detected?
+
+Set a alert for a person wearing black hoddie
+
